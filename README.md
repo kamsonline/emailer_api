@@ -2,7 +2,7 @@
 
 This is a test emailer api which will send email with option of failover delivery option. This is currently configured to use mailgun. If delivery fails with mailgun, then it will try using mailjet.
 
-This codebase is built using NodeJS ([Nest](https://github.com/nestjs/nest)), Express, Typescript and deployed to Heroku
+This API is built using NodeJS ([Nest](https://github.com/nestjs/nest)), Express, Typescript and deployed to Heroku
 
 Here is the link to the API [swagger](https://kamesh-emailer-api.herokuapp.com/v1/api/)
 
